@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+   <meta charset="UTF-8">
+   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   <title>Document</title>
+</head>
+
+<body>
+   <h1>Lessons</h1>
+   <div>
+      <ul>
+         <li><a target="_blank" href="https://clear307.github.io/goit-markup-hw-01/">hw-01</a><br>Web Studio
+         <p>Урок №2 ___________________</p>
+         </li>
+         <li><a target="_blank" href="https://clear307.github.io/goit-markup-hw-02/index.html">hw-02</a><br>Web Studio
+         <p>Урок №3 ________________________</p>
+         </li>
+      </ul> 
+   </div>
+</body>
+
+</html>
